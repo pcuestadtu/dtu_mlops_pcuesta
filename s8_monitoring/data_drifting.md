@@ -185,8 +185,8 @@ we can also mention [NannyML](https://github.com/NannyML/nannyml), [WhyLogs](htt
         from evidently.report import Report
         from evidently.metric_preset import DataDriftPreset
         report = Report(metrics=[DataDriftPreset()])
-        report.run(reference_data=reference_data, current_data=current_data)
-        report.save_html('report.html')
+        snapshot = report.run(reference_data=reference_data, current_data=current_data)
+        snapshot.save_html('report.html')
         ```
 
         Open the generated `.html` page. What does it say about your data? Has it drifted? Make sure to poke
