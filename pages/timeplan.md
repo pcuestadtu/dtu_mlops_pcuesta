@@ -57,10 +57,10 @@ important for the longevity for the applications that we develop, that we can de
 locally or in the cloud and that we have the tools to monitor how they behave over time. Scaling of applications is an
 important topic if we ever want our applications to be used by many people at the same time.
 
-Date    | Day       | Presentation topic                                           | Frameworks                               | Format
---------|-----------|--------------------------------------------------------------|------------------------------------------|----------
-19/1/26 | Monday    | [Monitoring📝](../slides/day11_monitoring.pdf)               | Evidently AI, Prometheus, GCP Monitoring | [Exercises](../s8_monitoring/README.md)
-20/1/26 | Tuesday   | [Scalable applications📝](../slides/ScalingApplications.pdf) | PyTorch, Lightning                       | [Exercises](../s9_scalable_applications/README.md)
-21/1/26 | Wednesday | Summary lecture                                              | -                                        | [Projects](projects.md)
-22/1/26 | Thursday  | No lecture                                                   | -                                        | [Projects](projects.md)
-23/1/26 | Friday    | No lecture                                                   | -                                        | [Projects](projects.md)
+Date    | Day       | Presentation topic                                                  | Frameworks                               | Format
+--------|-----------|---------------------------------------------------------------------|------------------------------------------|----------
+19/1/26 | Monday    | [Monitoring📝](../slides/day11_monitoring.pdf)                      | Evidently AI, Prometheus, GCP Monitoring | [Exercises](../s8_monitoring/README.md)
+20/1/26 | Tuesday   | [Scalable applications📝](../slides/day12_scaling_applications.pdf) | PyTorch, Lightning                       | [Exercises](../s9_scalable_applications/README.md)
+21/1/26 | Wednesday | Summary lecture                                                     | -                                        | [Projects](projects.md)
+22/1/26 | Thursday  | No lecture                                                          | -                                        | [Projects](projects.md)
+23/1/26 | Friday    | No lecture                                                          | -                                        | [Projects](projects.md)
